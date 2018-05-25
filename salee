@@ -1,0 +1,22 @@
+<html>
+<pre><head><h2 style="text-align:center"; >Uki student</h2></head></pre>
+<body>
+<form>
+  <fieldset style="background-color:Lightblue;" form="form1">
+    <legend>uki life:</legend>
+<pre> firs name     :   <input type= "text" name="firstname"><br>
+ last name     :   <input type= "text" name="last name"><br>
+ reg no        :   <input type= "text" name="reg no"><br>
+ date of birth :   <input type= "text" name="firstname"></pre><br><br>
+ <pre>gender:      <input type="radio" name="gender" value="male"> male  <input type="radio" name="gender" value="female"> female</pre>
+<br>
+favorite subject: <br><br>
+<input type="checkbox" name="subject1" value="english">engilsh
+<input type="checkbox" name="subject2" value="personal  coaching">personal  coaching
+<input type="checkbox" name="subject3" value="web delopment">web delopment
+<input type="checkbox" name="subject4" value="programming">programming<br>
+<pre>feed back:<br>
+               <textarea name="feedback" rows="20" cols="50"></pre></textarea>
+<pre>                                                          <input type="reset" value="Reset">  <input type="submit" value=submit> </pre>
+</form>
+</body>
